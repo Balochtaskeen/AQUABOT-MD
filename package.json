@@ -1,26 +1,26 @@
 {
-  "name": "Aquabot-MD",
+  "name": "Taskeen official",
   "version": "1.0.0",
-  "description": "aquabot happy for whatsapp.",
-  "main": "/aquabot/bot.js",
+  "description": "Taskeen official happy for whatsapp.",
+  "main": "/Taskeen/official.js",
   "type": "commonjs",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AQUABOT-MD.git"
+    "url": "git+https://youtu.be/o6ffrupC5vo"
   },
   "engines" : { 
     "node" : ">=14.19.3"
   },
   "author": "sanuwa official",
-  "developer": "sanuwa",
+  "developer": "sanuwa",https://youtu.be/o6ffrupC5vo
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
+    "url": "https://youtu.be/o6ffrupC5vo"
   },
-  "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
+  "homepage": "https://youtu.be/o6ffrupC5vo",
   "dependencies": {
      "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
