@@ -1,6 +1,6 @@
 {
-    "name": "Aquabot - MD",
-    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
+    "name": "Taskeen- Official",
+    "description": "TASKEEN  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
     "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
     "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
@@ -50,7 +50,7 @@
            
            "URL_1NAME": {
             "description": "",
-            "value": "🎊INSTAGRAM🎊" ,
+            "value": "🎊YOU TUBE🎊" ,
             "required": true
       },
            "URL_1LINK": {
@@ -60,7 +60,7 @@
       },
      "URL_2NAME": {
             "description": "",
-            "value": "💻GITHUB💻" ,
+            "value": "💻 TASKEEN OFFICIAL💻" ,
             "required": true
       },
        "URL_2LINK": {
@@ -80,7 +80,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 Taskeen official 03216740469²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -136,7 +136,7 @@
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "⛲ Taskeen ⃨𝚋 official" ,
             "required": true
       },
           "WORK_TYPE": {
